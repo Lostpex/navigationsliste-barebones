@@ -1,0 +1,41 @@
+/* Schrift Importierung*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Roboto:wght@500&family=Zen+Dots&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+    margin: 0;
+    border: 0;
+    background: linear-gradient(#393939, #303030);
+    
+}
+
+
+nav{
+    position: sticky;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.name{
+    font-size: 25px;
+}
+ul{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+}
+li{
+    margin: 16px 14px;
+}
+a{
+    color: aliceblue;
+    padding: 8px 16px;
+}
+
+a:hover{
+    background-color: greenyellow;
+    color: #303030;
+    border-radius: 10px;
+}
