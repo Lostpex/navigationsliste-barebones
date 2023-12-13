@@ -1,2 +1,2 @@
 # navigationsliste-barebones
-bonestructure navlist for my friends an not knowing people
+Für alle die keine Ahnung in Informatik haben ༼ つ ◕_◕ ༽つ
