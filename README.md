@@ -6,3 +6,5 @@ Diese Dateien dienen  zur Hilfe, damit man den Aufbau einer solchen Seite verste
 1. Das ist __Meine__ Seite und wer die Seite nur kopiert und nichts selber daran verändet is ein HS...
 
 Um zur Seite zu gelangen klicke [Hier](https://lostpex.github.io/navigationsliste-barebones/hauptseite.html)
+
+Um den Source-Code herunterzuladen klicke [Hier](https://downgit.github.io/#/home?url=https://github.com/Lostpex/navigationsliste-barebones)
