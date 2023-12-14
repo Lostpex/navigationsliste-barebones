@@ -7,4 +7,4 @@ Diese Dateien dienen  zur Hilfe, damit man den Aufbau einer solchen Seite verste
 
 Um zur Seite zu gelangen klicke [Hier](https://lostpex.github.io/navigationsliste-barebones/hauptseite.html)
 
-Um den Source-Code herunterzuladen klicke [Hier](https://downgit.github.io/#/home?url=https://github.com/Lostpex/navigationsliste-barebones)
+Um den Source-Code herunterzuladen klicke [Hier](https://github.com/Lostpex/navigationsliste-barebones)
