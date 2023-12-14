@@ -12,35 +12,43 @@ body{
 
 
 nav{
+    /*Damit die Navigationsleite immer oben zu sehen ist*/
     position: sticky;
+    /*Damit die links nicht untereinander sondern in einer Reihe sind*/
     display: flex;
+    /*Damit der Barebones text auf der linken und die Links auf der rechten Seite sind*/
     justify-content: space-between;
+    /*Damit Barebones auf der selben höhe wie die links sind*/
     align-items: center;
     
 }
 .name{
+    /*Größe des Bareones Textes*/
     font-size: 25px;
 }
-ul{
+ul {
+    /*Damit die Links in einer Reihe sind*/
     display: flex;
-    text-decoration: none;
+    /*Damit die Stichpunkte weg sind*/
     list-style: none;
 }
 li{
+    /*Abstand zwischen Einzelnen Li elementen + weiteres*/
     margin: 16px 14px;
 }
 a{
     color: aliceblue;
+    /*Abstand zwischen Einzelnen Links*/
     padding: 8px 16px;
 }
-
+/*Bei schweben über Link zur Unterseite*/
 a:hover{
     background-color: greenyellow;
     color: #303030;
     border-radius: 10px;
 }
 
-
+/*Unwichtig für den Text in der Mitte*/
 .div h1 {
     color: aliceblue;
     position: absolute;
