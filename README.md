@@ -15,3 +15,5 @@ Um zur Seite zu gelangen klicke [Hier](https://lostpex.github.io/navigationslist
 ## Source Code
 
 Um den Source-Code herunterzuladen klicke [Hier](https://github.com/Lostpex/navigationsliste-barebones)
+
+# Auf Github "Code" anklicken und dann auf "Dowload Zip" und dann habt ihr den Spass
