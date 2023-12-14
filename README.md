@@ -11,7 +11,7 @@ Diese Dateien dienen  zur Hilfe, damit man den Aufbau einer solchen Seite verste
 
 ## Webseite
 
-Um zur Seite zu gelangen klicke [Hier]((https://lostpex.github.io/navigationsliste-barebones/sites/indexx.html))
+Um zur Seite zu gelangen klicke [Hier](https://lostpex.github.io/navigationsliste-barebones/sites/indexx.html)
 
 ## Source Code
 
