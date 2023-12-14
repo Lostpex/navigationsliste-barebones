@@ -7,7 +7,7 @@ Diese Dateien dienen  zur Hilfe, damit man den Aufbau einer solchen Seite verste
 
 ## Wichtig
 1. Das ist __Meine__ Seite und wer die Seite nur kopiert und nichts selber daran verändet is ein HS...
-2. Diese Navigationsliste ist für Pc-Bildschirme(Chrome) gedacht, und werden auf Handy/ipad möglicherweise falsch angezeigt.(Also nicht wundern wenn es auf dem Handy im hochformat vercracked/kaputt aussieht)
+2. Diese Navigationsliste ist für __Pc-Bildschirme__(Chrome) gedacht, und __nicht__ für Handy's. Daher wird die Seite auf Handy/ipad möglicherweise falsch angezeigt.(Also nicht wundern wenn es auf dem Handy im hochformat vercracked/kaputt aussieht)
 
 ## Webseite
 
